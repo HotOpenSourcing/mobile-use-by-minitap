@@ -1,7 +1,5 @@
-.env
 __pycache__
 **/mobile-use.egg-info
-.vscode/settings.json
 .venv/
 
 # User config
@@ -11,3 +9,5 @@ llm-config.override.jsonc
 .ios_udid
 
 *.DS_Store
+config.bat
+node_modules
